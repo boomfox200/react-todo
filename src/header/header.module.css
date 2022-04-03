@@ -28,7 +28,7 @@ background-color: #ffffff;
   position: relative;
   color: #181743;
 }
-.dayData.active{
+.dayDataActive{
 width: 64px;
 margin-top: -6px;
 margin-bottom: -6px;
@@ -59,13 +59,13 @@ font-weight: 400;
 padding-top: 10px;
 }
 
-.dayData.active .number{
+.dayDataActive .number{
   
   font-size: 22px;
   font-weight: 400;
   font-weight: bold;
   font-family: 'Baloo 2';
 }
-.dayData.active .day{
+.dayDataActive .day{
   margin-top: -10px;
   }
