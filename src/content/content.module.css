@@ -1,0 +1,30 @@
+.contBlock{
+    display: grid;
+    grid-template-columns: 80px auto;
+    margin-top: 26px;
+    align-items: center;
+    padding: 0 10px;
+}
+.textBlock{
+    display: grid;
+    grid-template-columns: 48px auto;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
+    border-radius: 6px;
+    background-color: #ffffff;
+    opacity: 0.9;
+    align-items: center;
+    height: 52px;
+}
+.time{
+opacity: 0.8;
+color: #181743;
+font-family: Lato;
+font-size: 12px;
+font-weight: 900;
+}
+.text{
+font-family: Lato;
+font-size: 14px;
+font-weight: 400;
+color: #181743;
+}

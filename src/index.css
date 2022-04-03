@@ -3,6 +3,8 @@ body {
   
 }
 
-code {
-  
+#root{
+  height: 100vh;
+  background: url("../src/img/bg.png") no-repeat;
+  background-position: left bottom;
 }
